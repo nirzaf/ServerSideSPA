@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideSPA", "ServerSideSPA.csproj", "{A87652E9-CAA2-4F45-A693-A7B832BB1C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87652E9-CAA2-4F45-A693-A7B832BB1C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87652E9-CAA2-4F45-A693-A7B832BB1C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87652E9-CAA2-4F45-A693-A7B832BB1C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87652E9-CAA2-4F45-A693-A7B832BB1C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53880AB7-410D-416E-B41E-09B42878FEE2}
+	EndGlobalSection
+EndGlobal
